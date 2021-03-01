@@ -1,4 +1,4 @@
-exam.pl
+exam.pl hello
 
 example example2
 
